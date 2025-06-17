@@ -5,3 +5,9 @@
 |--------------|--------------|--------------|
 | Gabriel Mata       | 33       | Ingeniería Informática |
 | Julián Hernández     | 21       | Ingeniería Informática |
+
+## Hobbies
+- Correr
+- Gym
+- Jugar futbol
+- Conocer lugares
