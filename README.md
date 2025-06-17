@@ -1,5 +1,7 @@
 # Tareas Plataformas Abiertas
 ## Mi Biografia
-*Nombre de estuadiante:* Gabriel Mata
-*Edad:* 33
-*Carrera:* Ingenieria Informatica
+
+| **Estudiante** | **Edad** | **Carrera** |
+|--------------|--------------|--------------|
+| Gabriel Mata       | 33       | Ingeniería Informática |
+| Julián Hernández     | 21       | Ingeniería Informática |
